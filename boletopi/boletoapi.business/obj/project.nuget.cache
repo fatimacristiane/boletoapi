@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mnRHr9DSUdFLJqU1MUnDh+PfvA8HWPs3l6gw3cF4VmkKqTQKbYfO+lpD3Z2nZocs2Uw7/u5HDMFsPH2V54rf+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cristiane\\Documents\\Projetos\\boletopi\\boletoapi.business\\boletoapi.business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristiane\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
