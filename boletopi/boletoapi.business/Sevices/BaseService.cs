@@ -2,12 +2,7 @@
 using boletoapi.business.Models;
 using boletoapi.business.Notificacoes;
 using FluentValidation;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using FluentValidation.Results;
 
 namespace boletoapi.business.Sevices
 {

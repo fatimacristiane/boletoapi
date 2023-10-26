@@ -9,8 +9,7 @@ namespace boletoapi.business.Interfaces
 {
     public interface IBancoRepository : IRepository<Banco>
     {
-        Task Adicionar(Boleto boleto);
-
-        Task<List<Boleto>> ObertObterTodos();
+       
+        Task<List<Banco>> ObertTodos();
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\Cristiane\Documents\Projetos\boletopi\boletoapi.business\bin\Debug\net6.0\boletoapi.business.deps.json
+C:\Users\Cristiane\Documents\Projetos\boletopi\boletoapi.business\bin\Debug\net6.0\boletoapi.business.dll
+C:\Users\Cristiane\Documents\Projetos\boletopi\boletoapi.business\bin\Debug\net6.0\boletoapi.business.pdb
+C:\Users\Cristiane\Documents\Projetos\boletopi\boletoapi.business\obj\Debug\net6.0\boletoapi.business.csproj.AssemblyReference.cache
+C:\Users\Cristiane\Documents\Projetos\boletopi\boletoapi.business\obj\Debug\net6.0\boletoapi.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristiane\Documents\Projetos\boletopi\boletoapi.business\obj\Debug\net6.0\boletoapi.business.AssemblyInfoInputs.cache
+C:\Users\Cristiane\Documents\Projetos\boletopi\boletoapi.business\obj\Debug\net6.0\boletoapi.business.AssemblyInfo.cs
+C:\Users\Cristiane\Documents\Projetos\boletopi\boletoapi.business\obj\Debug\net6.0\boletoapi.business.csproj.CoreCompileInputs.cache
+C:\Users\Cristiane\Documents\Projetos\boletopi\boletoapi.business\obj\Debug\net6.0\boletoapi.business.dll
+C:\Users\Cristiane\Documents\Projetos\boletopi\boletoapi.business\obj\Debug\net6.0\refint\boletoapi.business.dll
+C:\Users\Cristiane\Documents\Projetos\boletopi\boletoapi.business\obj\Debug\net6.0\boletoapi.business.pdb
+C:\Users\Cristiane\Documents\Projetos\boletopi\boletoapi.business\obj\Debug\net6.0\ref\boletoapi.business.dll

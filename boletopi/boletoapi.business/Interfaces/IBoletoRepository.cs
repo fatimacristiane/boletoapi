@@ -13,7 +13,7 @@ namespace boletoapi.business.Interfaces
 
         Task<Boleto> ObterPorId(Guid id);
 
-        Task<List<Boleto>> ObertObterTodos();
+        Task<List<Boleto>> ObertTodos();
     }
 
 }

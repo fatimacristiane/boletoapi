@@ -1,0 +1,17 @@
+C:\Users\Cristiane\Documents\Projetos\boletopi\boleto.data\bin\Debug\net6.0\boleto.data.deps.json
+C:\Users\Cristiane\Documents\Projetos\boletopi\boleto.data\bin\Debug\net6.0\boleto.data.runtimeconfig.json
+C:\Users\Cristiane\Documents\Projetos\boletopi\boleto.data\bin\Debug\net6.0\boleto.data.dll
+C:\Users\Cristiane\Documents\Projetos\boletopi\boleto.data\bin\Debug\net6.0\boleto.data.pdb
+C:\Users\Cristiane\Documents\Projetos\boletopi\boleto.data\bin\Debug\net6.0\boletoapi.business.dll
+C:\Users\Cristiane\Documents\Projetos\boletopi\boleto.data\bin\Debug\net6.0\boletoapi.business.pdb
+C:\Users\Cristiane\Documents\Projetos\boletopi\boleto.data\obj\Debug\net6.0\boleto.data.csproj.AssemblyReference.cache
+C:\Users\Cristiane\Documents\Projetos\boletopi\boleto.data\obj\Debug\net6.0\boleto.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristiane\Documents\Projetos\boletopi\boleto.data\obj\Debug\net6.0\boleto.data.AssemblyInfoInputs.cache
+C:\Users\Cristiane\Documents\Projetos\boletopi\boleto.data\obj\Debug\net6.0\boleto.data.AssemblyInfo.cs
+C:\Users\Cristiane\Documents\Projetos\boletopi\boleto.data\obj\Debug\net6.0\boleto.data.csproj.CoreCompileInputs.cache
+C:\Users\Cristiane\Documents\Projetos\boletopi\boleto.data\obj\Debug\net6.0\boleto.data.csproj.CopyComplete
+C:\Users\Cristiane\Documents\Projetos\boletopi\boleto.data\obj\Debug\net6.0\boleto.data.dll
+C:\Users\Cristiane\Documents\Projetos\boletopi\boleto.data\obj\Debug\net6.0\refint\boleto.data.dll
+C:\Users\Cristiane\Documents\Projetos\boletopi\boleto.data\obj\Debug\net6.0\boleto.data.pdb
+C:\Users\Cristiane\Documents\Projetos\boletopi\boleto.data\obj\Debug\net6.0\boleto.data.genruntimeconfig.cache
+C:\Users\Cristiane\Documents\Projetos\boletopi\boleto.data\obj\Debug\net6.0\ref\boleto.data.dll
